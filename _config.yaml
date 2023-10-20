@@ -1,0 +1,11 @@
+remote_theme: pages-themes/slate
+plugins:
+  - jekyll-remote-theme
+
+
+menu:
+  - title: Index
+    url: /index
+  - title: Recruitment
+    url: /recruitment_content
+
