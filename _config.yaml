@@ -1,6 +1,4 @@
-remote_theme: pages-themes/slate
-plugins:
-  - jekyll-remote-theme
+theme: Slate
 
 
 menu:
